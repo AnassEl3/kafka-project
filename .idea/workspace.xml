@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5989fe91-2c90-4c8f-ad6f-69e5eca449d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/KafkaPublisherApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/controllers/CoffeeShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/test/java/com/learning/kafkapublisher/KafkaPublisherApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/KafkaSubscriberApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/listeners/CoffeeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/test/java/com/learning/kafkasubscriber/KafkaSubscriberApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2glv8yykvSJKlYUdQzdMIjzIXG3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.kafka-publisher [install].executor": "Run",
+    "Maven.kafka-subscriber [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Publisher.executor": "Run",
+    "Spring Boot.Subscriber.executor": "Run",
+    "Spring Boot.publisher.executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.Publisher">
+    <configuration name="Publisher" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-publisher" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learning.kafkapublisher.KafkaPublisherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subscriber" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-subscriber" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learning.kafkasubscriber.KafkaSubscriberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Publisher" />
+      <item itemvalue="Spring Boot.Subscriber" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-25a4bffe" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5989fe91-2c90-4c8f-ad6f-69e5eca449d2" name="Changes" comment="" />
+      <created>1716284823385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716284823385</updated>
+      <workItem from="1716284824404" duration="229000" />
+      <workItem from="1716285063274" duration="3275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
