@@ -5,38 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5989fe91-2c90-4c8f-ad6f-69e5eca449d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/KafkaPublisherApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/config/KafkaConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/controllers/CoffeeShopController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-publisher/src/test/java/com/learning/kafkapublisher/KafkaPublisherApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/KafkaSubscriberApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/config/KafkaConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/listeners/CoffeeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-subscriber/src/test/java/com/learning/kafkasubscriber/KafkaSubscriberApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/KafkaPublisherApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-publisher/src/main/java/com/learning/kafkapublisher/KafkaPublisherApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-publisher/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-publisher/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/KafkaSubscriberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/KafkaSubscriberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/config/KafkaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/config/KafkaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/listeners/CoffeeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/java/com/learning/kafkasubscriber/listeners/CoffeeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-subscriber/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-subscriber/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +57,7 @@
     "Spring Boot.Publisher.executor": "Run",
     "Spring Boot.Subscriber.executor": "Run",
     "Spring Boot.publisher.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "anass",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -129,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716284823385</updated>
       <workItem from="1716284824404" duration="229000" />
-      <workItem from="1716285063274" duration="3275000" />
+      <workItem from="1716285063274" duration="6063000" />
     </task>
     <servers />
   </component>
